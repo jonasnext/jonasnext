@@ -1,1 +1,3 @@
-### ⚡️🐬
+### ⚡️ | 🐬
+
+elegance • simplicity • joy
