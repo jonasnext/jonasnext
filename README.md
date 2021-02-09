@@ -4,4 +4,4 @@ elegance • simplicity • joy
 
 ### @deloitte
 
-• swift, objc, react, svelte
+• swift, objc, react, nextjs, svelte
