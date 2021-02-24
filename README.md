@@ -1,6 +1,8 @@
-## ⚡️ | 🐬
+![next](img/logo.svg)
 
-elegance • simplicity • joy
+# ⚡️ | 🐬
+
+## elegance • simplicity • joy
 
 ### @deloitte
 
